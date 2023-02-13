@@ -9,3 +9,6 @@ has ended in January 2024.
 
 In this repository, you will find the subsets for Version 1 and Version 2 of the cards
 in their respective directories (`version_1` and `version_2`).
+
+
+The cards are licensed under CC BY-NC-SA 4.0 (See `LICENSE`).
