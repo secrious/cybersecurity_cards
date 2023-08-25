@@ -1,4 +1,4 @@
-# Cybersecurity Cards for SOUPS'23 Submission
+# Cybersecurity Cards
 
 The authors of the paper present a subset of the deck of cybersecurity cards
 for both Version 1 and Version 2 for viewing.
